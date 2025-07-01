@@ -85,7 +85,7 @@ mutmut run WeightHelper.py
 mutmut results
 ```
 - “Killed” mutants are bugs caught by the tests.
-- “Survived” mutants are logic changes to the tests did NOT catch—write more tests for these!
+- “Survived” mutants are logic changes to the tests did NOT catch!
 
 ---
 
