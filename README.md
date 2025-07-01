@@ -7,10 +7,10 @@ This project demonstrates property-based and automated testing using [Hypothesis
 
 ## 🚀 Quick Start
 
-### 1. Set up Git
+### 1. Set up WSL and Download Python  (Recommended)
 
-- [How to Install Git](https://learn.microsoft.com/en-us/devops/develop/git/install-and-set-up-git)  (If it is not already installed in the System.) 
-
+- [How to install Linux on Windows with WSL] (https://learn.microsoft.com/en-us/windows/wsl/install)
+- [Download Python] (https://www.python.org/downloads/)
 
 ### 2. Clone or Download the Repository
 
@@ -19,7 +19,7 @@ git clone https://github.com/Ethiomesi2020/TestBMI_PA2579.git
 cd TestBMI_PA2579
 ```
 
-### 3. (Recommended) Create a Virtual Environment
+### 3. Create a Virtual Environment (Recommended)
 
 A virtual environment keeps dependencies isolated.
 
