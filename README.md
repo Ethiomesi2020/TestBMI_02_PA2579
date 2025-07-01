@@ -31,7 +31,7 @@ A virtual environment keeps dependencies isolated.
 - **Windows:**
   ```sh
   python -m venv venv
-  venv\Scripts\activate
+  .\venv\Scripts\activate
   ```
 
 ### 4. Install Dependencies
