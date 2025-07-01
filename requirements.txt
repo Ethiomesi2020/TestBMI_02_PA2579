@@ -1,0 +1,5 @@
+# Project dependencies
+pytest
+hypothesis
+flake8
+mutmut
