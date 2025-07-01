@@ -7,9 +7,10 @@ This project demonstrates property-based and automated testing using [Hypothesis
 
 ## 🚀 Quick Start
 
-### 1. Set up WSL (Recommended)
+### 1. Set up WSL or GitHub Actions workflows
 
-- [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
+- [How to set up GitHub Actions](https://docs.github.com/en/actions/get-started/quickstart) (Recommended)
+- [How to set up and install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
 
 ### 2. Clone or Download the Repository
 
