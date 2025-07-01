@@ -76,13 +76,14 @@ To check how effective your tests are at catching bugs, you can run **mutation t
 ### 1. Run mutation tests
 
 ```sh
-mutmut run WeightHelper.py
+python -m mutmut run
 ```
 
 ### 2. View results
 
 ```sh
-mutmut results
+mutmut results > mutmut_results.txt
+mutmut show > mutmut_surviving_mutants.txt
 ```
 - “Killed” mutants are bugs caught by the tests.
 - “Survived” mutants are logic changes to the tests did NOT catch!
