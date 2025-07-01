@@ -7,10 +7,9 @@ This project demonstrates property-based and automated testing using [Hypothesis
 
 ## 🚀 Quick Start
 
-### 1. Set up WSL and Download Python  (Recommended)
+### 1. Set up WSL (Recommended)
 
 - [How to install Linux on Windows with WSL](https://learn.microsoft.com/en-us/windows/wsl/install)
-- [Download Python](https://www.python.org/downloads/)
 
 ### 2. Clone or Download the Repository
 
