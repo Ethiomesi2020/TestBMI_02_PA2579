@@ -29,6 +29,6 @@ jobs:
         python -m unittest test_WeightHelper.py
 
     - name: Run mutmut
-      run: mutmut run --paths-to-mutate=WeightHelper.py --runner="python -m unittest test_WeightHelper.py"
+      run: mutmut run --runner="python -m unittest test_WeightHelper.py" WeightHelper.py
     - name: Show mutmut results
       run: mutmut results
