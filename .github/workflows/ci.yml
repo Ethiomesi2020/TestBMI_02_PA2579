@@ -29,6 +29,6 @@ jobs:
         python -m unittest test_WeightHelper.py
 
     - name: Run mutmut
-      run: mutmut run --runner="python -m unittest test_WeightHelper.py" WeightHelper.py
+      run: mutmut run
     - name: Show mutmut results
       run: mutmut results
