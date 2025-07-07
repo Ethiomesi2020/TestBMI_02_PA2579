@@ -15,7 +15,7 @@ This project demonstrates property-based and automated testing using [Hypothesis
 ### 2. Clone or Download the Repository
 
 ```sh
-git clone https://github.com/Ethiomesi2020/TestBMI_PA2579.git
+git clone https://github.com/Ethiomesi2020/TestBMI_02_PA2579.git
 cd TestBMI_PA2579
 ```
 
