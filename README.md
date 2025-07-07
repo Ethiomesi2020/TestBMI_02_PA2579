@@ -16,7 +16,7 @@ This project demonstrates property-based and automated testing using [Hypothesis
 
 ```sh
 git clone https://github.com/Ethiomesi2020/TestBMI_02_PA2579.git
-cd TestBMI_PA2579
+cd TestBMI_02_PA2579
 ```
 
 ### 3. Create a Virtual Environment (Recommended)
